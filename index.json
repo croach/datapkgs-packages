@@ -1,6 +1,6 @@
 {
   "adult": {
-    "repository": "https://github.com/croach/datapkgs-adult.git",
+    "url": "https://github.com/croach/datapkgs-adult/archive/master.zip",
     "description": "The Census Income Data Set (aka, the Adult data set) from the UCI Machine Learning repository."
   }
 }
